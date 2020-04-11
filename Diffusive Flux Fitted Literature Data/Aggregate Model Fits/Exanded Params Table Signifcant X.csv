@@ -1,0 +1,40 @@
+Data Set,Sample,Permeability (P),Convection Term (X),Tumor,Model,Size (nm),Particle,Particle Type,Active
+"Dunne, Zheng",Nontargeted,1.48126425,-0.745810879,Lung,SubQ,81.9,Liposome,Lipid,0
+"Dunne, Zheng",0.64 NGR-P2K,1.936500065,0.365442309,Lung,SubQ,84.1,Liposome,Lipid,1
+"Dunne, Zheng",2.56 NGR-P2K,1.754639414,-0.344180943,Lung,SubQ,86.8,Liposome,Lipid,1
+"Dunne, Zheng",0.64 NGR-P3.4K,1.081714218,1.051178976,Lung,SubQ,86.7,Liposome,Lipid,1
+"Dunne, Zheng",0.64 ARA-P2K,1.965695792,-0.933010222,Lung,SubQ,84.1,Liposome,Lipid,1
+"Dunne, Zheng",0.64 ARA-P3.4K,1.194853696,-0.267708913,Lung,SubQ,86.7,Liposome,Lipid,1
+"Cabral, Matsumoto",BxPC3 pancreatic tumor 30 nm,2.462934603,-2.309341062,Pancreas,SubQ,30,Liposome,Lipid,0
+"Ekdawi, Stewart",Iodine,0.575680007,-0.855026331,Breast,SubQ,7,Albumin,Protein,0
+3HM U87,3HM,1.472449804,-1.658313534,GBM,Orthotopic,20,3HM,Lipid,0
+Nikhil,C18,3.778694601,-5.46084531,Breast,Orthotopic,17,3HM,Lipid,0
+Nikhil,C16,4.900727901,-5.547524325,Breast,Orthotopic,17.6,3HM,Lipid,0
+"Dreher, Liu",70 kDa,539.7433098,-357.2614239,Skin,Dorsal,14,Dextran,Polysaccharide,0
+"Dreher, Liu",40 kDa,429.6765382,-196.2534756,Skin,Dorsal,9.28,Dextran,Polysaccharide,0
+"Song, Darr",C3-Tag-PLD,0.882700701,-1.976620444,Breast,Orthotopic,79.1,Liposome,Lipid,0
+"Matsumura, Maeda",Albumin,3.277504536,4.304157769,GBM,Orthotopic,7,Albumin,Protein,0
+"Lin, Chang",InVNBL,4.352553091,2.810964552,Colon,SubQ,102,Liposome,Lipid,0
+"Lee, Hoang",NT-BCM,0.733383985,-1.217435067,Breast,SubQ,57,Micelle,Lipid,1
+"Black, Wang",Nanospheres,4.550269108,3.653907587,Breast,SubQ,56.8,Nanosphere,Gold,0
+"Black, Wang",Nanodisks,4.498400848,2.907859268,Breast,SubQ,92,Nanodisk,Gold,0
+"Black, Wang",Nanocages,3.411451215,4.699598699,Breast,SubQ,49.6,Nanocage,Gold,0
+"Zhang, Mastorakos",PAMAM G4-OH,1.391717606,-4.10529038,GBM,Orthotopic,4,PAMAM,Polymer,0
+"Medina, Atti",Zr CLL,3.50484396,-0.004997455,Breast,Orthotopic,104.4,Liposome,Lipid,1
+"Tsai, Chang",Primary tumor,9.181603524,-9.525310454,Colon,SubQ,102,Liposome,Lipid,0
+"Tsai, Chang",metastases-1,10.42874727,-9.969970214,Colon,SubQ,103,Liposome,Lipid,0
+"Pathak, Kumar",pDNA/PEI,6.112887175,-11.04290497,Breast,SubQ,114,PEI,Polymer,0
+"Pathak, Kumar",pDNA/CP-3,37.07390198,3.742509048,Breast,Orthotopic,100,Liposome,Lipid,0
+"Chen, Zhang",drug loaded micelle + (with pluronic 127),187.6089736,277.5391453,Skin,SubQ,23,Pluronic Micelle,Polymer,0
+"Guo, Shi",FA-hyd,69.705052,38.7691777,Breast,SubQ,70.9,PCL Micelle,Polymer,0
+"Guo, Shi",FA-cbm,89.73829292,56.77804088,Breast,SubQ,86.6,PCL Micelle,Polymer,0
+"Ma, Sadoqi",DM-NP,22.6659232,20.90428367,Breast,SubQ,253,PLGA,Polymer,0
+"Charrois, Allen",82 nm,1.49951883,1.464727186,Breast,Orthotopic,82,Liposome,Lipid,0
+"Charrois, Allen",101 nm,2.222541089,2.080598752,Breast,Orthotopic,101,Liposome,Lipid,0
+"Charrois, Allen",154 nm,2.646072672,3.485091695,Breast,Orthotopic,154,Liposome,Lipid,0
+"Charrois, Allen",241 nm,5.666329954,7.874999158,Breast,Orthotopic,241,Liposome,Lipid,0
+"Koizumi, Kitagawa",SN38,1.176701907,-2.920332228,Colon,SubQ,20,NK012,Polymer,0
+"Liu, Cai",Nontargeted Option 1,2.715674906,10.81376639,GBM,Subq,200,CNT,Carbon,0
+"Liu, Cai",0.64 NGR-P2K Option 1,2.823377444,7.553013085,GBM,Subq,201,CNT,Carbon,1
+"Liu, Cai",Nontargeted Option 2,6.907643237,6.666492418,GBM,Subq,202,CNT,Carbon,0
+"Liu, Cai",0.64 NGR-P2K Option 2,5.386620585,3.290850065,GBM,Subq,203,CNT,Carbon,1
