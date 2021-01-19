@@ -5,7 +5,7 @@ Used interpolation to model drug diffusion from many pieces of literature data.
 
 Originally intended for project on [Estimating Tumor Vascular Permeability using a Diffusive Flux Model](https://doi.org/10.1021/acsbiomaterials.9b01590)
 
-Code is able to produce plots like those seen below. A function will fit to the literature data based on the [Starling Equation](https://en.wikipedia.org/wiki/Starling_equation) of drug diffusion. 
+Code is able to produce plots like those seen below. A function will fit to the literature data based on the [Starling Equation](https://en.wikipedia.org/wiki/Starling_equation) of drug diffusion. Estimated parameters for the diffusivity and flux are calculated given concentration values and particle size. The uncertainty of these estimates is also provided in the figure.
 
 ![](Diffusive%20Flux%20Fitted%20Literature%20Data/Aggregate%20Model%20Fits/Chen%2C%20Zhang/doxorubicin%20(DOX)%20and%20paclitaxel.svg)
 
